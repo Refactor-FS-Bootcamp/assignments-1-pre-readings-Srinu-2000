@@ -1,0 +1,10 @@
+
+body {
+        background-color: rgb(226, 43, 168);
+    }
+.container{
+    background-color: blueviolet;
+        width:100%;
+        height:100px;
+        box-sizing: border-box;
+    }
